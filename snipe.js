@@ -1,4 +1,5 @@
 /* http://ellesite.altervista.org/Tribs/Snipe.js */
+/* https://dl.dropboxusercontent.com/u/144647314/twscripts/v8-snipe.js *//*old_version*/
 /* 
 	Author	: Fluffy88
 	Website : http://fluffy88.com
